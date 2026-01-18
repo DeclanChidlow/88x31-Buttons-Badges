@@ -9,7 +9,7 @@
   [![Contributors](https://img.shields.io/github/contributors/DeclanChidlow/88x31-Buttons-Badges?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/88x31-Buttons-Badges/graphs/contributors)
   [![Licence](https://img.shields.io/github/license/DeclanChidlow/88x31-Buttons-Badges?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/88x31-Buttons-Badges/blob/main/LICENCE)
 </h1>
-Brief description of repository
+A collection of fun buttons/badges for websites.
 </div>
 <br/>
 
