@@ -23,6 +23,6 @@ Place the button image on your site. In your CSS, make sure to apply `image-rend
 
 ## Requests
 
-You're more than welcome to request I create a badge by [opening an issue](https://github.com/DeclanChidlow/88x31-Buttons-Badges/issues/new/choose). I'll only create generally applicable badges that
+You're more than welcome to request I create a badge by [opening an issue](https://github.com/DeclanChidlow/88x31-Buttons-Badges/issues/new/choose). I'll only freely create generally applicable badges that benefit all.
 
 If you're looking to commission an affordable custom badge for your site, brand, or project, [get in contact](https://vale.rocks/contact).
