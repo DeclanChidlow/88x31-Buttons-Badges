@@ -9,13 +9,15 @@
   [![Contributors](https://img.shields.io/github/contributors/DeclanChidlow/88x31-Buttons-Badges?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/88x31-Buttons-Badges/graphs/contributors)
   [![Licence](https://img.shields.io/github/license/DeclanChidlow/88x31-Buttons-Badges?style=flat-square&logoColor=white)](https://github.com/DeclanChidlow/88x31-Buttons-Badges/blob/main/LICENCE)
 </h1>
-A collection of fun buttons/badges for websites.
+A collection of web buttons/badges for websites.
 </div>
 <br/>
 
 Back in the '90s, 88x31px buttons were all the rage. Every good Geocities site was adorned with them. With time their popularity has wained, but they're still around and are very much embraced by independent personal sites.
 
 This is a collection of buttons designed, created, and dedicated to the web by yours truly. Logos and brand resources remain the property of their respective owners.
+
+You can view these badges here: <https://vale.rocks/portfolio/88x31-buttons-badges>
 
 ## Usage
 
